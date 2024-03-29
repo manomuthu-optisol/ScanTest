@@ -1,1 +1,1 @@
-# ScanTest
+# scanflow-core-ios-sdk

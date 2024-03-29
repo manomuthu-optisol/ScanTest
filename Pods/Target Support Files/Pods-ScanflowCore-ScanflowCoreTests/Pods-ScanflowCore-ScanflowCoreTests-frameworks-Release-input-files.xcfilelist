@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-ScanflowCore-ScanflowCoreTests/Pods-ScanflowCore-ScanflowCoreTests-frameworks.sh
+${PODS_ROOT}/ScanflowBarcode/ScanflowBarcode.framework
+${PODS_ROOT}/ScanflowCore/ScanflowCore.framework
+${PODS_ROOT}/ScanflowDocumentCapture/ScanflowDocumentCapture.framework
+${PODS_ROOT}/ScanflowText/ScanflowText.framework
